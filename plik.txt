@@ -1,0 +1,7 @@
+Zrób sobie na dysku jakiś plik tekstowy w którym będzie napisane "dupa goła gorzały woła". Apka ma wyświetlić tekst zapisany w dokumencie tekstowym tylko jeśli się zalogujesz, w innym wypadku dostajesz komunikat odmowy dostępu i informacje ze musisz się zalogować
+Krzysiek
+Więc musisz mieć opcje zaloguj i zarejestruj
+Krzysiek
+Jak utworzylem nowe konto to powinienem się móc zalogować przy każdym uruchomieniu apki - czyli dane o logowaniu powinny być gdzieś w bazie danych
+Krzysiek
+No i jak się wpisuje hasło w konsoli to nie powinno być go widać tylko **
